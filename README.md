@@ -145,7 +145,3 @@ If you encounter issues:
 - Some Azure DevOps configurations may not provide access to all information
 - The script may need customization for specific repository setups
 
-## License
-
-This tool is provided under the MIT License. Feel free to modify and adapt it to your needs.
-
